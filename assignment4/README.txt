@@ -1,7 +1,5 @@
 Author: Yavuz Selim Suzen
 
-Student ID: 10121583
-
 Description of the program: 
 
 List of files: main.c, building.c, room.c, ghost.c, defs.h, and README.txt
